@@ -10,13 +10,11 @@ import {
   Flex,
   useToken,
 } from '@chakra-ui/react';
-import { Highlight } from '@chakra-ui/react';
 import JobHeader from '@/components/WorkHistory/JobHeader';
 import kebabCase from 'lodash/kebabCase';
-import startCase from 'lodash/startCase';
-import toLower from 'lodash/toLower';
 import { MdWork } from 'react-icons/md';
 import JobDetailsGrid from '@/components/WorkHistory/JobDetailsGrid';
+import { capitalize } from 'lodash';
 
 export type WorkHistoryType = {
   position: string;
@@ -44,19 +42,13 @@ const WorkHistory = ({ history }: WorkHistoryProps) => {
     ['orange.900', 'orange.600', 'gray.300', 'black', 'gray.900', 'gray.50']
   );
 
-  const highlightStyle = {
-    px: '1',
-    py: '0.5',
-    color: useColorModeValue(orange900, orange600),
-    fontWeight: 'bold',
-  };
-
   const boxColor = useColorModeValue(gray900, gray50);
 
   const accordionButtonExpandedStyle = {
     bg: useColorModeValue(gray300, black),
   };
-
+  const highlightColor = useColorModeValue(orange900, orange600);
+  const borderPanelColor = useColorModeValue(gray300, black);
   return (
     <Accordion allowToggle>
       {history.map(
@@ -64,16 +56,21 @@ const WorkHistory = ({ history }: WorkHistoryProps) => {
           <AccordionItem key={kebabCase(`${position}-${company}`)}>
             <AccordionButton _expanded={accordionButtonExpandedStyle}>
               <Box as="h2" flex="1" textAlign="left">
-                <Highlight
-                  query={startCase(toLower(position))}
-                  styles={highlightStyle}
-                >
-                  {`${startCase(toLower(position))} @ ${company}`}
-                </Highlight>
+                <Text px="1" py="0.5" color={highlightColor} fontWeight="bold">
+                  {position
+                    .split(' ')
+                    .map((word) => capitalize(word))
+                    .join(' ')}
+                </Text>
+                <Text>{`@ ${company}`}</Text>
               </Box>
               <AccordionIcon />
             </AccordionButton>
-            <AccordionPanel pb={4} as="section">
+            <AccordionPanel
+              pb={4}
+              as="section"
+              border={`1px solid ${borderPanelColor}`}
+            >
               <JobHeader duration={duration} location={location} />
 
               <Text>{description}</Text>

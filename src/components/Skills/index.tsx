@@ -23,7 +23,7 @@ type SkillsProps = {
 const Skills = ({ languages, skills }: SkillsProps) => (
   <SimpleGrid
     sx={{ 'grid-template-columns': 'max-content max-content' }}
-    spacing={{ sm: 2, md: 10 }}
+    gap={{ base: 2, md: 4 }}
   >
     <Flex gap={2} flexDirection="column" alignItems="flex-start">
       {skills.map((skill) => (

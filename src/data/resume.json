@@ -8,7 +8,7 @@
   },
   "workHistory": [
     {
-      "position": "LEAD FRONTEND ENGINEER",
+      "position": "lead frontend engineer",
       "company": "INSTAPRO GROUP",
       "description": "Instapro Group (Travaux.com, Werkspot.nl, Instapro.it, Myhammer.de, MyHammer.at and mybuilder.com) - Part of Angi International and IAC, provides a marketplace where tradespeople can find jobs and homeowners can hire quality tradespeople",
       "duration": "2 years",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "position": "SENIOR FRONTEND DEVELOPER",
+      "position": "senior frontend developer",
       "company": "LIBERKEYS",
       "description": "Platform that allows agents to save a lot of time to make real estate simple and affordable",
       "duration": "3 months",
@@ -42,14 +42,14 @@
       "techSkills": ["Javascript", "VueJS"]
     },
     {
-      "position": "CONSULTANT ENGINEER",
+      "position": "consultant engineer",
       "company": "PUBLICIS SAPIENT FRANCE",
       "description": "Consultant for Xebia France, the agile IT consultancy firm was bought by Publicis Sapient Engineering in 2018/2019",
       "duration": "2 years",
       "location": "Paris, France",
       "missions": [
         {
-          "company": "INGENICO",
+          "company": "ingenico",
           "description": "A merchant services technology company, based in France, that facilitates secure electronic transactions. It expanded as a manufacturer of point of sale payment terminals to also include complete merchant payment SaaS and related services.",
           "techSkills": [
             "Typescript",
@@ -62,7 +62,7 @@
           ]
         },
         {
-          "company": "HAPPN",
+          "company": "happn",
           "description": "A location-based social search mobile and web application that allows users to like or dislike other users, and allows users to chat if both parties liked each other. The app is used as an online dating application.",
           "responsibilities": [
             "Defining, in collaboration with the product team, the features to create the MVP",
@@ -79,7 +79,7 @@
           ]
         },
         {
-          "company": "EUROP ASSISTANCE",
+          "company": "europ assistance",
           "description": "A pioneer in the field with more than 55 years experience in caring for people. Leader in the assistance industry: travel, auto, health, home & family, concierge, medical, etc.",
           "responsibilities": [
             "Collaborating with product owner to define stories and acceptance criterias",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "position": "FRONTEND DEVELOPER",
+      "position": "frontend developer",
       "company": "MEETIC",
       "description": "Meetic is a French online dating service founded in November 2001 and part of the Match Group since 2013.",
       "duration": "3 months",
@@ -112,7 +112,7 @@
       "techSkills": ["ReactJS", "CSS Modules"]
     },
     {
-      "position": "LEAD DEVELOPER FRONT",
+      "position": "lead developer front",
       "company": "L'ETUDIANT",
       "description": "L'Etudiant, is, historically, a multimedia company. It's the leading organisation in France in the field of higher education.",
       "duration": "10 months",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "position": "FRONTEND DEVELOPER and LEAD FRONTEND DEVELOPER",
+      "position": "lead / frontend developer",
       "company": "MAZARINE DIGITAL",
       "description": "Mazarine is an independent group bringing together entertainment, creative and innovation for fashion, luxury and culture. It has offices spread across the world # in Paris, New York, Asia Pacific region and Middle East.",
       "duration": "2 years, 10 months",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "position": "WEB DEVELOPER",
+      "position": "web developer",
       "company": "LES CHINOIS",
       "description": "Les Chinois was an agency with high expertise in the creation of websites and multimedia content for broadband, in particular, through the use of Flash technology. Then with the use of the HTML5 canvas element and Javascript frameworks.\nThe agency produced its own video sequences, had a filming studio and regularly called on a sound engineer, a lighting director and actors.",
       "duration": "2 year, 10 months",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "position": "MULTIMEDIA DEVELOPER",
+      "position": "multimedia developer",
       "company": "FREELANCE",
       "duration": "1 year",
       "location": "Paris, France",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "position": "TEACHING ASSISTANT",
+      "position": "teaching assistant",
       "company": "UNIVERSITY INSTITUTE OF TECHNOLOGY",
       "duration": "1 year",
       "location": "Marne La Vallee, France",
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "position": "PROGRAMMING ANALYST",
+      "position": "programming analyst",
       "company": "SSP, THE FOOD TRAVEL EXPERTS",
       "description": "Food travel Experts:a leading food and beverage provider in travel locations worldwide",
       "duration": "1 year",

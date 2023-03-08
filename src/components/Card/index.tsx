@@ -39,23 +39,26 @@ const Card = () => {
           mb={4}
           pos={'relative'}
           name="Jennifer Proust"
+          colorScheme="orange"
         />
         <Heading fontSize={'2xl'} fontFamily={'body'}>
           Jennifer Proust
         </Heading>
-        <Text fontWeight={600} color={'gray.500'} mb={4}>
-          @proustibat
-        </Text>
-        <Text
-          as="p"
-          textAlign={'center'}
+        <Flex
+          flexDirection="column"
           color={useColorModeValue('gray.700', 'gray.400')}
-          px={3}
+          maxWidth="70%"
+          m="auto"
         >
-          Lead frontend developer. I&apos;ve been living in Paris for many
-          years.
-        </Text>
-        <Text as="p"> I love to learn new things.</Text>
+          <Text fontWeight={600} color={'gray.500'} mb={4}>
+            @proustibat
+          </Text>
+          <Text as="p">
+            Lead frontend developer. I&apos;ve been living in Paris for many
+            years.
+          </Text>
+          <Text as="p">I love to learn new things.</Text>
+        </Flex>
 
         <Flex
           flexWrap="wrap"
@@ -64,6 +67,8 @@ const Card = () => {
           justify={'center'}
           direction={'row'}
           mt={6}
+          maxWidth="70%"
+          mx="auto"
         >
           {badges.map((badge) => (
             <Badge

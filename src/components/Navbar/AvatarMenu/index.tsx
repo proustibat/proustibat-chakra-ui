@@ -23,6 +23,7 @@ const AvatarMenu = () => (
         src={'/images/jennifer-proust.jpeg'}
         my={3}
         name="Jennifer Proust"
+        colorScheme="orange"
       />
     </MenuButton>
     <MenuList>
