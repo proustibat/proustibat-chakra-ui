@@ -1,0 +1,250 @@
+{
+  "presentation": "Highly motivated and detail-oriented senior/lead frontend developer with a passion for writing clean, maintainable code. Committed to delivering high-quality, user-centered solutions and continuously seeking opportunities for improvement. Proven track record of meeting deadlines, working effectively in a team environment and collaborating with cross-functional teams to achieve project goals.",
+  "links": {
+    "linkedin": "https://bit.ly/prstbt-linkedin",
+    "github": "https://bit.ly/prstbt-gh",
+    "stackoverflow": "https://bit.ly/prstbt-so",
+    "twitter": "https://bit.ly/prstbt-tw"
+  },
+  "workHistory": [
+    {
+      "position": "LEAD FRONTEND ENGINEER",
+      "company": "INSTAPRO GROUP",
+      "description": "Instapro Group (Travaux.com, Werkspot.nl, Instapro.it, Myhammer.de, MyHammer.at and mybuilder.com) - Part of Angi International and IAC, provides a marketplace where tradespeople can find jobs and homeowners can hire quality tradespeople",
+      "duration": "2 years",
+      "location": "NL, FR, IT, GER, AT, UK",
+      "responsibilities": [
+        "Building a roadmap and prioritization to implement scalable architecture",
+        "Working closely with product teams to implement solutions while ensuring the frontend codebase is clean, performant and maintainable",
+        "Facilitating events and workshops in the frontend guild, composed of several frontend developers from different feature teams",
+        "Facilitating agile process in team"
+      ],
+      "techSkills": [
+        "Typescript",
+        "Javascript",
+        "ReactJS",
+        "NextJS",
+        "GraphQL",
+        "Apollo",
+        "Testing: Jest, RTL, Codecept, PacktJS, Cypress",
+        "Storybook"
+      ]
+    },
+    {
+      "position": "SENIOR FRONTEND DEVELOPER",
+      "company": "LIBERKEYS",
+      "description": "Platform that allows agents to save a lot of time to make real estate simple and affordable",
+      "duration": "3 months",
+      "location": "Paris, France",
+      "responsibilities": [
+        "Contributing to the product definition, design and implementing solutions"
+      ],
+      "techSkills": ["Javascript", "VueJS"]
+    },
+    {
+      "position": "CONSULTANT ENGINEER",
+      "company": "PUBLICIS SAPIENT FRANCE",
+      "description": "Consultant for Xebia France, the agile IT consultancy firm was bought by Publicis Sapient Engineering in 2018/2019",
+      "duration": "2 years",
+      "location": "Paris, France",
+      "missions": [
+        {
+          "company": "INGENICO",
+          "description": "A merchant services technology company, based in France, that facilitates secure electronic transactions. It expanded as a manufacturer of point of sale payment terminals to also include complete merchant payment SaaS and related services.",
+          "techSkills": [
+            "Typescript",
+            "Javascript",
+            "ReactJS",
+            "GatsbyJS",
+            "TailwindCSS",
+            "Axios",
+            "Testing: Jest, RTL, Cypress"
+          ]
+        },
+        {
+          "company": "HAPPN",
+          "description": "A location-based social search mobile and web application that allows users to like or dislike other users, and allows users to chat if both parties liked each other. The app is used as an online dating application.",
+          "responsibilities": [
+            "Defining, in collaboration with the product team, the features to create the MVP",
+            "Designing the architecture and implementing the features of the PWA"
+          ],
+          "techSkills": [
+            "Typescript",
+            "Javascript",
+            "ReactJS",
+            "CSS Modules",
+            "Axios",
+            "Testing: Jest, RTL",
+            "Storybook"
+          ]
+        },
+        {
+          "company": "EUROP ASSISTANCE",
+          "description": "A pioneer in the field with more than 55 years experience in caring for people. Leader in the assistance industry: travel, auto, health, home & family, concierge, medical, etc.",
+          "responsibilities": [
+            "Collaborating with product owner to define stories and acceptance criterias",
+            "Sharing good practices: clean, code quality tracking, maintenance strategy",
+            "International environment, working in English"
+          ],
+          "techSkills": [
+            "Typescript",
+            "Javascript",
+            "ReactJS",
+            "Redux",
+            "Material-UI",
+            "NodeJS",
+            "Testing: Jest, Enzyme, RTL, TestCafe",
+            "Storybook"
+          ]
+        }
+      ]
+    },
+    {
+      "position": "FRONTEND DEVELOPER",
+      "company": "MEETIC",
+      "description": "Meetic is a French online dating service founded in November 2001 and part of the Match Group since 2013.",
+      "duration": "3 months",
+      "location": "Paris, France",
+      "responsibilities": [
+        "Maintenance and improvements of logged-out features like landing pages for several SPA's of Match Group in different countries",
+        "Writing technical documentation about shared components"
+      ],
+      "techSkills": ["ReactJS", "CSS Modules"]
+    },
+    {
+      "position": "LEAD DEVELOPER FRONT",
+      "company": "L'ETUDIANT",
+      "description": "L'Etudiant, is, historically, a multimedia company. It's the leading organisation in France in the field of higher education.",
+      "duration": "10 months",
+      "location": "Paris, France",
+      "responsibilities": [
+        "Designing and building the front architecture of different sites and mobiles applications",
+        "Hiring and building a front team able to collaborate with the backend team",
+        "Performances optimization",
+        "Versioning management of shared components"
+      ],
+      "techSkills": [
+        "Sinopia: private NPM package manager",
+        "Handlebars",
+        "ES6, CSS, HTML",
+        "Ionic 2 & 3: TS, Angular 2"
+      ]
+    },
+    {
+      "position": "FRONTEND DEVELOPER and LEAD FRONTEND DEVELOPER",
+      "company": "MAZARINE DIGITAL",
+      "description": "Mazarine is an independent group bringing together entertainment, creative and innovation for fashion, luxury and culture. It has offices spread across the world # in Paris, New York, Asia Pacific region and Middle East.",
+      "duration": "2 years, 10 months",
+      "location": "Paris, France",
+      "responsibilities": [
+        "In charge of the frontend side of Chanel fashion and haute couture websites",
+        "Designing and managing web architectures",
+        "Integration and development of websites and multimedia applications",
+        "Tests and deployments, maintenance and updating",
+        "Writing technical documentation"
+      ],
+      "techSkills": [
+        "ES5, ES6",
+        "In-house framework with ExtJS",
+        "Backbone JS / MarionetteJS",
+        "jQuery, Underscore",
+        "RequireJS, Grunt, NPM, Bower",
+        "Sass, Handlebars"
+      ]
+    },
+    {
+      "position": "WEB DEVELOPER",
+      "company": "LES CHINOIS",
+      "description": "Les Chinois was an agency with high expertise in the creation of websites and multimedia content for broadband, in particular, through the use of Flash technology. Then with the use of the HTML5 canvas element and Javascript frameworks.\nThe agency produced its own video sequences, had a filming studio and regularly called on a sound engineer, a lighting director and actors.",
+      "duration": "2 year, 10 months",
+      "location": "Paris, France",
+      "responsibilities": [
+        "Developing applications, sites, games for brands or corporate events"
+      ],
+      "techSkills": [
+        "ActionScript 3",
+        "PHP",
+        "MySQL",
+        "Wordpress",
+        "HTML5, ES5, jQuery",
+        "ImpactJS",
+        "CreateJS"
+      ]
+    },
+    {
+      "position": "MULTIMEDIA DEVELOPER",
+      "company": "FREELANCE",
+      "duration": "1 year",
+      "location": "Paris, France",
+      "responsibilities": [
+        "Designing and building flash animations (banners, widgets, games...)",
+        "Full flash websites development",
+        "Sites, applications web PHP, MySQL: Zend Framework and Wordpress"
+      ]
+    },
+    {
+      "position": "TEACHING ASSISTANT",
+      "company": "UNIVERSITY INSTITUTE OF TECHNOLOGY",
+      "duration": "1 year",
+      "location": "Marne La Vallee, France",
+      "responsibilities": [
+        "First-year university level and degree level",
+        "Guided exercises to teach HTML, JS, CSS to students",
+        "Supervising group activities to support students to understand the theory by practicing"
+      ]
+    },
+    {
+      "position": "PROGRAMMING ANALYST",
+      "company": "SSP, THE FOOD TRAVEL EXPERTS",
+      "description": "Food travel Experts:a leading food and beverage provider in travel locations worldwide",
+      "duration": "1 year",
+      "location": "Paris, France",
+      "responsibilities": [
+        "Maintaining and testing existing software",
+        "Improvements and updating of internal used applications"
+      ],
+      "techSkills": ["Windev / Webdev", "SQL Server", "PHP", "Javascript"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Digital creation and publishing, Culture and communication - Digital creation, innovation and information, Master degree level",
+      "location": "Paris 8 University Vincennes-Saint-Denis, Paris, France"
+    },
+    {
+      "degree": "Computer Analyst, Information Processing Engineering, fourth-year university level",
+      "location": "National Institute of Advanced Technology, Paris, France"
+    },
+    {
+      "degree": "Activities and Techniques of Communication, option Information, Communication and Multimedia Engineering, degree level",
+      "location": "University of Paris-Est Marne-la-Vallée, Paris, France"
+    },
+    {
+      "degree": "Communication services and networks, project management, multimedia design and production, development, second-year university level",
+      "location": "University of Versailles Saint-Quentin-en-Yvelines, Paris, France"
+    }
+  ],
+  "skills": [
+    "Team Leadership",
+    "Problem-Solving",
+    "Communication",
+    "Collaboration",
+    "Initiative"
+  ],
+  "languages": [
+    {
+      "lang": "French",
+      "level": "C2"
+    },
+    {
+      "lang": "English",
+      "level": "B2"
+    }
+  ],
+  "hobbies": [
+    "Learning to play the piano",
+    "Learning photography",
+    "Running",
+    "Volunteering"
+  ]
+}
