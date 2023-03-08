@@ -15,10 +15,8 @@ import NavLink from '@/components/Navbar/NavLink';
 import AvatarMenu from '@/components/Navbar/AvatarMenu';
 import links from '@/components/Navbar/links';
 import { BsSun, BsMoonStarsFill } from 'react-icons/bs';
-import { useRouter } from 'next/router';
 
 const Navbar = () => {
-  const router = useRouter();
   const { isOpen, onOpen, onClose } = useDisclosure();
   const { colorMode, toggleColorMode } = useColorMode();
 
@@ -70,7 +68,7 @@ const Navbar = () => {
           >
             {colorMode === 'dark' ? <BsSun /> : <BsMoonStarsFill />}
           </Button>
-          {router.pathname !== '/' && <AvatarMenu />}
+          <AvatarMenu />
         </Flex>
       </Flex>
 
